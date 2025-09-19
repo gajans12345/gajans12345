@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building ETL Data Engineering Pipelines using Airflow**
 
-- 🌱 I’m currently learning **Tensor Flow, Pytorch and Keras**
+- 🌱 I’m currently learning **Machine Learning Fundamentals**
 
 - 👯 I’m looking to collaborate on **using Scikit-Learn for predictive modelling**
 
